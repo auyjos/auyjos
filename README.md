@@ -1,5 +1,5 @@
 
-
+/header.png
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=auyjos&theme=radical&hide_border=true&mode=weekly)](https://git.io/streak-stats)
 
