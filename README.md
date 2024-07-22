@@ -11,6 +11,8 @@
     <img src="https://github-profile-trophy.vercel.app/?username=auyjos&theme=monokai&-ma&row=2&column=3&no-bg=true&no-frame=true" alt="trophy" />
   </a>
 
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=auyjos&theme=monokai)
+
   <h3 align="center">Connect with me:</h3>
   <p align="center">
     <a href="https://www.linkedin.com/in/jose-auyon/">
