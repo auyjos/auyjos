@@ -17,9 +17,9 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   <p>auyon.joseandres@gmail.com</p>
   </div>
-  <a href="https://git.io/streak-stats">
-   [![GitHub Streak](https://streak-stats.demolab.com/?user=auyjos)](https://git.io/streak-stats)
-  </a>
+   <div>
+  [![GitHub Streak](https://streak-stats.demolab.com?user=auyjos&theme=radical&hide_border=true&mode=weekly)](https://git.io/streak-stats)
+ </div>
   
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=auyjos&theme=monokai&-ma&row=2&column=3&no-bg=true&no-frame=true" alt="trophy" />
