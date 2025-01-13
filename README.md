@@ -18,7 +18,7 @@
   <p>auyon.joseandres@gmail.com</p>
   </div>
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=auyjos&theme=radical&hide_border=true&mode=weekly" alt="GitHub Streak" />
+   [![GitHub Streak](https://streak-stats.demolab.com/?user=auyjos)](https://git.io/streak-stats)
   </a>
   
   <a href="https://github.com/ryo-ma/github-profile-trophy">
