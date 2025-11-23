@@ -17,7 +17,9 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   <p>auyon.joseandres@gmail.com</p>
   </div>
-  
+  <p align="center">
+  <img src="https://api.boot.dev/v1/users/public/2a2099e3-3478-4453-8ef1-4971afc283e5/thumbnail" >
+</p>
   
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=auyjos&theme=monokai&-ma&row=2&column=3&no-bg=true&no-frame=true" alt="trophy" />
